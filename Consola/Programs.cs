@@ -13,7 +13,7 @@ namespace Consola
 
             Persona p = new Persona();
             p.Nombre = "joimar";
-            p.TI=21;
+            p.TI=20;
             Console.WriteLine("el nombre es:  "+p.Nombre+" su edad es: "+p.TI);
         }
     }
