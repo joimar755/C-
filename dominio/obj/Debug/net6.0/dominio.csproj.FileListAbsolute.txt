@@ -1,0 +1,12 @@
+C:\Users\Joimar\Documents\C#\dominio\bin\Debug\net6.0\dominio.deps.json
+C:\Users\Joimar\Documents\C#\dominio\bin\Debug\net6.0\dominio.dll
+C:\Users\Joimar\Documents\C#\dominio\bin\Debug\net6.0\dominio.pdb
+C:\Users\Joimar\Documents\C#\dominio\obj\Debug\net6.0\dominio.csproj.AssemblyReference.cache
+C:\Users\Joimar\Documents\C#\dominio\obj\Debug\net6.0\dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joimar\Documents\C#\dominio\obj\Debug\net6.0\dominio.AssemblyInfoInputs.cache
+C:\Users\Joimar\Documents\C#\dominio\obj\Debug\net6.0\dominio.AssemblyInfo.cs
+C:\Users\Joimar\Documents\C#\dominio\obj\Debug\net6.0\dominio.csproj.CoreCompileInputs.cache
+C:\Users\Joimar\Documents\C#\dominio\obj\Debug\net6.0\dominio.dll
+C:\Users\Joimar\Documents\C#\dominio\obj\Debug\net6.0\refint\dominio.dll
+C:\Users\Joimar\Documents\C#\dominio\obj\Debug\net6.0\dominio.pdb
+C:\Users\Joimar\Documents\C#\dominio\obj\Debug\net6.0\ref\dominio.dll
