@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Joimar\\Documents\\C#\\Dominio\\Dominio.csproj": {}
+    "C:\\Users\\Joimar\\Documents\\C#\\dominio\\dominio.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Joimar\\Documents\\C#\\Dominio\\Dominio.csproj": {
+    "C:\\Users\\Joimar\\Documents\\C#\\dominio\\dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Joimar\\Documents\\C#\\Dominio\\Dominio.csproj",
-        "projectName": "Dominio",
-        "projectPath": "C:\\Users\\Joimar\\Documents\\C#\\Dominio\\Dominio.csproj",
+        "projectUniqueName": "C:\\Users\\Joimar\\Documents\\C#\\dominio\\dominio.csproj",
+        "projectName": "dominio",
+        "projectPath": "C:\\Users\\Joimar\\Documents\\C#\\dominio\\dominio.csproj",
         "packagesPath": "C:\\Users\\Joimar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Joimar\\Documents\\C#\\Dominio\\obj\\",
+        "outputPath": "C:\\Users\\Joimar\\Documents\\C#\\dominio\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

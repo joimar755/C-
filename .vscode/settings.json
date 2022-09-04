@@ -1,0 +1,62 @@
+{
+    "sqltools.connections": [
+        {
+            "mssqlOptions": {
+                "appName": "SQLTools",
+                "useUTC": true,
+                "encrypt": true
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 1433,
+            "askForPassword": true,
+            "driver": "MSSQL",
+            "name": "DESKTOP-HN0L2BO",
+            "database": "Database Engine",
+            "username": "DESKTOP-HN0L2BO\\Joimar"
+        },
+        {
+            "mssqlOptions": {
+                "appName": "SQLTools",
+                "useUTC": true,
+                "encrypt": true
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 1433,
+            "askForPassword": true,
+            "driver": "MSSQL",
+            "name": "DESKTOP-HN0L2BO",
+            "database": "Database Engine",
+            "username": "DESKTOP-HN0L2BO\\Joimar"
+        },
+        {
+            "mssqlOptions": {
+                "appName": "SQLTools",
+                "useUTC": true,
+                "encrypt": true
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 1433,
+            "driver": "MSSQL",
+            "name": "DESKTOP-HN0L2BO",
+            "database": "Database Engine",
+            "username": "DESKTOP-HN0L2BO\\Joimar",
+            "password": "Joimar29*"
+        },
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "localhost",
+            "database": "root",
+            "username": "root",
+            "password": ""
+        }
+    ]
+}
