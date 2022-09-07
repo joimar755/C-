@@ -37,7 +37,8 @@ namespace Consola
 
             Console.WriteLine("Nombre: " + c.Nombre);
             Console.WriteLine("Cedula: " + c.Cedula);
-            Console.WriteLine("Direccion: " + c.Direccion);
+            Console.WriteLine("Direccion: " + c.Direccion); 
+        
         }
     }
 }
