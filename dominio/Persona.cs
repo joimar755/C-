@@ -30,5 +30,6 @@ namespace dominio
             Correo = _Correo;
 
          }
+         
     }
 }

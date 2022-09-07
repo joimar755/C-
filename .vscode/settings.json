@@ -57,6 +57,36 @@
             "database": "root",
             "username": "root",
             "password": ""
+        },
+        {
+            "mssqlOptions": {
+                "appName": "SQLTools",
+                "useUTC": true,
+                "encrypt": true
+            },
+            "previewLimit": 50,
+            "server": "192.168.1.11",
+            "port": 1433,
+            "askForPassword": true,
+            "driver": "MSSQL",
+            "username": "DESKTOP-HN0L2BO\\Joimar",
+            "name": "localhost",
+            "database": "Empresa"
+        },
+        {
+            "mssqlOptions": {
+                "appName": "SQLTools",
+                "useUTC": true,
+                "encrypt": true
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 1433,
+            "askForPassword": true,
+            "driver": "MSSQL",
+            "name": "DESKTOP-HN0L2BO",
+            "database": "Empresa",
+            "username": "Joimar"
         }
     ]
 }
