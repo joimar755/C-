@@ -5,9 +5,9 @@ using System.Threading.Tasks;
 
 namespace dominio
 {
-    public class Cliente : Persona 
+    public class Tecnico
     {
-        public  int Id_Cliente {get; set;} 
-        //public  string Credito {get; set;}
+        public int Id_Tecnico {get; set;}
+        public string Nome_Tecnico {get; set;}
     }
 }
